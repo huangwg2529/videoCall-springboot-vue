@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.kurento:kms-api-core:6.13.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kurento/kms-api-core/6.13.1-SNAPSHOT/kms-api-core-6.13.1-20200416.145409-9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kurento/kms-api-core/6.13.1-SNAPSHOT/kms-api-core-6.13.1-20200416.145409-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kurento/kms-api-core/6.13.1-SNAPSHOT/kms-api-core-6.13.1-20200416.145409-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
